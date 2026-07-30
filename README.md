@@ -31,16 +31,26 @@ For every interview question, I cover:
 
 | Module | Status |
 |---------|--------|
-| Module 01 - Variable Fundamentals | 🚧 In Progress |
-| Module 02 - Execution Context | ⏳ Coming Soon |
-| Module 03 - Hoisting | ⏳ Coming Soon |
-| Module 04 - Scope | ⏳ Coming Soon |
-| Module 05 - Lexical Environment | ⏳ Coming Soon |
-| Module 06 - Closure | ⏳ Coming Soon |
-| Module 07 - This Keyword | ⏳ Coming Soon |
-| Module 08 - Objects | ⏳ Coming Soon |
-| Module 09 - Functions | ⏳ Coming Soon |
-| Module 10 - Event Loop | ⏳ Coming Soon |
+| Module 01 - Variables, Memory & Data Types (40 Questions) | 🚧 In Progress |
+| Module 02 - Functions (35 Questions) | ⏳ Coming Soon |
+| Module 03 - Scope & Lexical Environment (30 Questions) | ⏳ Coming Soon |
+| Module 04 - Execution Context (30 Questions) | ⏳ Coming Soon |
+| Module 05 - Hoisting & TDZ (25 Questions) | ⏳ Coming Soon |
+| Module 06 - Closures (35 Questions) | ⏳ Coming Soon |
+| Module 07 - this, call, apply, bind (35 Questions) | ⏳ Coming Soon |
+| Module 08 - Objects (40 Questions) | ⏳ Coming Soon |
+| Module 09 - Prototype & Prototype Chain (40 Questions) | ⏳ Coming Soon |
+| Module 10 - Arrays (30 Questions) | ⏳ Coming Soon |
+| Module 11 - Event Loop (40 Questions) | ⏳ Coming Soon |
+| Module 12 - Promises (30 Questions) | ⏳ Coming Soon |
+| Module 13 - Async/Await (25 Questions) | ⏳ Coming Soon |
+| Module 14 - Browser Internals (35 Questions) | ⏳ Coming Soon |
+| Module 15 - DOM & Events (35 Questions) | ⏳ Coming Soon |
+| Module 16 - Memory Management (40 Questions) | ⏳ Coming Soon |
+| Module 17 - Performance Optimization (35 Questions) | ⏳ Coming Soon |
+| Module 18 - Modules & Bundling (25 Questions) | ⏳ Coming Soon |
+| Module 19 - Design Patterns (30 Questions) | ⏳ Coming Soon |
+| Module 20 -  Production Debugging & Interview (50 Questions) | ⏳ Coming Soon |
 
 ---
 
