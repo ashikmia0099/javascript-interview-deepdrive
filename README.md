@@ -21,7 +21,7 @@ For every interview question, I cover:
 3. Memory Diagram
 4. Real Production Example
 5. Debugging Scenario
-6. Mid-Level Interview Answer (English)
+6. Mid-Level Javascript Prepration Answer (English)
 7. Practice Task
 8. Follow-up Interview Questions
 
@@ -56,7 +56,7 @@ For every interview question, I cover:
 
 ## ⭐ Goal
 
-- 20+ JavaScript Modules
+- 20 JavaScript Modules
 - 500+ Interview Questions
 - Real Production Examples
 - Memory Diagrams
